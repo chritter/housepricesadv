@@ -7,20 +7,20 @@ housepricesadv documentation!
 ==============================================
 
 
-Contents:
-
-
 .. 
    Test Start <getting-started>  allows to set custom name in toc
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   :caption: General Functionality
 
-
-   Test Start <getting-started> 
+   Test Start <getting-started>
    commands
    modules/data
    modules/models
+   notebooks/nb
+
+   
 
 .. note:: This is a **note** box.
 
@@ -34,6 +34,10 @@ Contents:
 	|                                      |                                 |
 	|                                      | A description can go here       |
 	+--------------------------------------+---------------------------------+
+
+
+
+
 
 
 
