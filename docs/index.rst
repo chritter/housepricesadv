@@ -6,6 +6,7 @@
 housepricesadv documentation!
 ==============================================
 
+Code for Kaggle Competition  "House Prices - Advanced Regression Techniques"
 
 .. 
    Test Start <getting-started>  allows to set custom name in toc
@@ -14,7 +15,7 @@ housepricesadv documentation!
    :maxdepth: 1
    :caption: General Functionality
 
-   Test Start <getting-started>
+   Getting Started <getting-started>
    commands
    modules/data
    modules/models
@@ -22,7 +23,7 @@ housepricesadv documentation!
 
    
 
-.. note:: This is a **note** box.
+.. note:: **This repo and docs were created for testing purposes only.**
 
 .. table::
 	:align: center
